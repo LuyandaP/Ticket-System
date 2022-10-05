@@ -1,0 +1,12 @@
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\bin\Debug\Ticket System.exe.config
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\bin\Debug\Ticket System.exe
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\bin\Debug\Ticket System.pdb
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.csprojResolveAssemblyReference.cache
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\obj\Debug\Ticket_System.Login.resources
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\obj\Debug\Ticket_System.Properties.Resources.resources
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.GenerateResource.Cache
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.CoreCompileInputs.cache
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.exe
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.pdb
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\bin\Debug\MySql.Data.DLL
+C:\Users\Siziwe\source\repos\Ticket System\Ticket System\obj\Debug\Ticket_System.Splashpage.resources
